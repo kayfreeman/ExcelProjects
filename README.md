@@ -13,7 +13,7 @@
 
 ## Project Overview
 FutureTale Hotel speaks dynamic modernity. The Chinese Restaurant, Japanese Gourmet Restaurant, Lobby Lounge & Bars, and Grand Ballroom, as well as the guest rooms and suites, meet the most exacting comfort and service standards.
-FutureTale hotel has noticed inconsistencies in their returns from 2017 t0 2018. Being a modern relaxation center with a booking platform, A significant number of hotel reservations are called-off due to cancellations or no-shows. The typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost which is beneficial to hotel guests, but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with.
+FutureTale Hotel has noticed inconsistencies in its returns from 2017 to 2018. Being a modern relaxation center with a booking platform, A significant number of hotel reservations are called off due to cancellations or no-shows. The typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost which is beneficial to hotel guests, but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with.
 
 ### Data Dictionary
 1. Booking_ID: unique identifier of each booking
@@ -40,26 +40,28 @@ FutureTale hotel has noticed inconsistencies in their returns from 2017 t0 2018.
 Microsoft Excel [download here](https://microsoft.com)
 
 ### Data Cleaning and Preparation
-File provided is an Excel Sheet. The following tasks were performed: -
+The file provided is an Excel Sheet. The following tasks were performed: -
 1. Opening the Excel File using Microsoft 365
 2. Handling all missing data/values
-3. Data cleaning and formating
+3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
 - Total booking for 2017 and 2018
 - Provide insight on all booking arrangements by visitors for 2017 and 2018
-- Show the percentage cancellation trend with respect to market segment, meal plans and room types
+- Show the percentage cancellation trend concerning market segment, meal plans, and room types
 
 ### Data Analysis
 - Used the pivot table and chart functions to analyze my data
-- ALso used data, insert and countif and sumif functions to analyze my data
+I also used data, insert and countif and sumif functions to analyze my data
 
 ### Findings
-- From 2017 to 2018, this outlook reveals that there is an additional 22% increase in booking cancelation with an attendant reduction in redeemed booking of clients at the Hotel
+- From 2017 to 2018, this outlook reveals that there is an additional 22% increase in booking cancelation with an attendant reduction in redeemed bookings of clients at the Hotel
 - Across Market segment, The ONLINE method has the highest booking Year on Year 
 - Across Meal plans, MEAL PLAN 1 has the highest booking Year on Year
 - Across Room Types, ROOM TYPE 1 has the highest booking Year on Year
 
+![Analytics1_FtureHotel](https://github.com/kayfreeman/ExcelProjects/assets/46418844/f2b3283b-8aa7-4b81-aa20-94f5ff8546c7)
+
 ### Limitation
-- Data was arbitrary and so assumptions were used
+- Data was arbitrary so assumptions were made
 
